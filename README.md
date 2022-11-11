@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Marcus
 - 👀 I’m interested in Mobile App(Android, IOS, Flutter)
-- I'm studying Node.js for WAS, AdminWebSite, DFS
 - 🌱 I’m currently learning Opensource Contributor
 - 📫 How to reach me yunseongh@gmail.com
 
